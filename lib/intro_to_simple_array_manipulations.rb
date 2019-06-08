@@ -1,8 +1,8 @@
-def using_push(array1, array2)
+def using_push(array1, string)
   array.push
 end
 
-def using_unshift(array1, array2)
+def using_unshift(array1, string)
   array.unshift
 end
 
