@@ -40,7 +40,7 @@ end
 
 def using_delete(array, string)
   array.delet(string)
-  
+
 end
 def using_delete_at(array, string)
   array.delete_at(string)
