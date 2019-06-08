@@ -33,3 +33,12 @@ end
 def using_uniq(array)
   array.uniq
 end
+
+def using_flatten([array, string])
+  array.flatten("")
+end
+
+def using_delete_at(array, i )
+  array == i.
+  
+end
