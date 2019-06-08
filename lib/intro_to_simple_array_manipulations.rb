@@ -16,10 +16,8 @@ def using_pop(array)
   @deleted_string
   end
 
-def pop_with_args(array(2))
-  @chars_in_game_of_thrones = ["Danny T.", "Tyrion Lannister", "Stable Boy", "Sandor Clegane"]
-  @chars_arya_killed = pop_with_args(@chars_in_game_of_thrones).pop(2)
-  @chars_arya_killed
+def pop_with_args(array)
+  array.pop(2)
 end
 
 
