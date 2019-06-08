@@ -1,23 +1,23 @@
 def using_push(array1, array2)
-  array.push
+  Array.push
 end
 
 def using_unshift(array1, array2)
-  array.unshift
+  Array.unshift
 end
 
 def using_pop(array)
-  array.pop
+  Array.pop
   end
 
 def pop_with_args(array)
-  array.pop(2)
+  Array.pop(2)
 end
 
 def using_shift(array)
-  array.shift
+  Array.shift
 end
 
 def shift_with_args(array)
-  array.shift(2)
+  Array.shift(2)
 end
