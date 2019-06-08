@@ -1,5 +1,5 @@
 def using_push(array1, string)
-  array.push("Niger")
+  next_country.push("Niger")
 end
 
 def using_unshift(array1, string)
