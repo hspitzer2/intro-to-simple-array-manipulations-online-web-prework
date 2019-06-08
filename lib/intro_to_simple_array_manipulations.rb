@@ -1,6 +1,6 @@
-def using_push(array1, string)
-  next_country.push("Niger")
-end
+def using_push(array, string)
+  array.last(string)
+end 
 
 def using_unshift(array1, string)
   array.unshift
